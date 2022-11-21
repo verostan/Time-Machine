@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+h1{color: navy;
+	font-size: 50pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+	color: navy;
+	font-family: Arial, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+
+body{
+	background: #FCA00A;
+}
+
+.song7{
+	height: 445px;
+	width: 700px;
+}

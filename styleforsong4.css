@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+h1{color:#96D6FF;
+	font-size: 50pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+	
+}
+h2{color:#96D6FF;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	
+}
+
+body{
+	background-color: black
+}
+
+.song4{
+	height: 545px;
+	width: 703px;
+}
